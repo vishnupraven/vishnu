@@ -1,0 +1,41 @@
+DAY 1 - BLOCK CHAIN ASSINGNMENT
+ 
+1) What is your understanding of Block chain ? 
+ It's a technology called block chain, a global online 
+database. It is a cryptographically linked list of records. Block 
+chain is a structure that keeps transactional records and ensures 
+security and decentralization. Cheating the system by faking 
+documents, transactions and other information are nearly 
+impossible.
+ 
+2) What is the core problem Block chain is trying to 
+solve ? 
+ 
+ Cross-Border Payments
+ Identity theft
+ Lack of transparency
+ Managing and protecting data of clients in some 
+organisation
+ Piracy issues
+3) What are the few features which Block chain will give 
+you ? 
+ 
+ Immutable
+ Verifiable
+ Tamper proof
+ Decentralized
+ Enhanced Security
+4)What all things does a block contain ? 
+ 
+ Block Number
+ Previous block Signature
+ New Records
+ Mining
+5)How verifiability of Block chain has been attained ? 
+ The data is stored across multiple sites throughout the 
+internet. If any discrepancy is observed at a particular site then it 
+can be rectified by verifying data at other sites. In this way 
+verifiability is achieved.
+ Data = key0
+ key0+New Data = key1
+ key1+New Data = key2
